@@ -16,7 +16,6 @@ public class Test {
 	    mp.case1();
 	}
 	
-	
 	@org.testng.annotations.Test
 	public void test2(){
 
